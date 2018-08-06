@@ -11,3 +11,37 @@
 }
 
 
+.picture1 {
+	height: 200px;
+	width: 100% ;
+	background-image: url(1-5img/box1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.picture2 {
+	height: 200px;
+	width: 100% ;
+	background-image: url(1-5img/box2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.picture3 {
+	height: 200px;
+	width: 100% ;
+	background-image: url(1-5img/box3.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.picture4 {
+	height: 200px;
+	width: 100% ;
+	background-image: url(1-5img/box4.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+
+
